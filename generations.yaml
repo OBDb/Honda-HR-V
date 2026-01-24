@@ -1,6 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/Honda_HR-V"
+
 generations:
   - name: "First Generation"
-    start_year: 1998
+    start_year: 1999
     end_year: 2006
     description: "The original Honda HR-V was a pioneering compact crossover SUV introduced primarily for the Japanese and European markets. Featuring distinctive boxy styling with a high roofline, it was marketed as a 'Joy Machine' that combined car-like handling with SUV versatility. Available in both three-door and five-door configurations, it was built on a modified Honda Logo platform. Powered by a 1.6L VTEC four-cylinder engine with either front-wheel drive or Honda's Real Time 4WD system, it emphasized on-road performance rather than serious off-road capability. The interior featured a car-like dashboard with a relatively high seating position providing the commanding view preferred by SUV buyers. Though not a strong seller globally, this generation was ahead of its time in anticipating the compact crossover trend that would eventually dominate the market."
 
